@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "casual_chitchat",
+    "key_fact",
+    "user_preference",
+    "decision",
+    "previous_work",
+    "unresolved_task"
+  ],
+  "category_to_id": {
+    "casual_chitchat": 0,
+    "key_fact": 1,
+    "user_preference": 2,
+    "decision": 3,
+    "previous_work": 4,
+    "unresolved_task": 5
+  },
+  "id_to_category": {
+    "0": "casual_chitchat",
+    "1": "key_fact",
+    "2": "user_preference",
+    "3": "decision",
+    "4": "previous_work",
+    "5": "unresolved_task"
+  },
+  "total_conversations": 250,
+  "total_samples": 4221,
+  "class_distribution_train": {
+    "casual_chitchat": 2086,
+    "key_fact": 175,
+    "user_preference": 175,
+    "decision": 175,
+    "previous_work": 175,
+    "unresolved_task": 175
+  }
+}
